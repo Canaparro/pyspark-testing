@@ -1,0 +1,12 @@
+gcid,progress,goal,type,region
+1,35,80,weekly,de
+2,70,90,daily,gb
+3,55,45,daily,gb
+3,24,32,weekly,gb
+3,15,42,daily,gb
+4,35,24,daily,de
+5,20,20,daily,de
+5,45,30,weekly,de
+6,65,70,daily,de
+6,45,70,weekly,de
+,,,,
